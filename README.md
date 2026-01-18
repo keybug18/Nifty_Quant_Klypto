@@ -106,11 +106,11 @@ ML is used to **filter low-quality trades**, not predict prices.
 ---
 
 ## 📂 Repository Structure
-├── 01_data_acquisition.ipynb
-├── 02_data_cleaning.ipynb
-├── 03_feature_engineering.ipynb
-├── 04_regime_detection.txt
-├── 05_baseline_strategy.ipynb
-├── 06_model_training.ipynb
-├── 07_outlier.ipynb
-├── README.md
+├── 01_data_acquisition.ipynb<br>
+├── 02_data_cleaning.ipynb<br>
+├── 03_feature_engineering.ipynb<br>
+├── 04_regime_detection.txt<br>
+├── 05_baseline_strategy.ipynb<br>
+├── 06_model_training.ipynb<br>
+├── 07_outlier.ipynb<br>
+├── README.md<br>
